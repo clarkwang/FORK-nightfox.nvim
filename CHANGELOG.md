@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.6.0](https://github.com/EdenEast/nightfox.nvim/compare/v3.5.1...v3.6.0) (2023-05-12)
+
+
+### Features
+
+* **modules:** add indent_blankline ([#347](https://github.com/EdenEast/nightfox.nvim/issues/347)) ([5472a3e](https://github.com/EdenEast/nightfox.nvim/commit/5472a3e2bae6f381b603cd7998fc131f8134755c))
+
+
+### Bug Fixes
+
+* **indent_blankline:** style wasn't set correctly ([#351](https://github.com/EdenEast/nightfox.nvim/issues/351)) ([77aa745](https://github.com/EdenEast/nightfox.nvim/commit/77aa7458d2b725c2d9ff55a18befe1b891ac473e))
+
 ## [3.5.1](https://github.com/EdenEast/nightfox.nvim/compare/v3.5.0...v3.5.1) (2023-04-21)
 
 
